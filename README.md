@@ -11,3 +11,5 @@ One article that caught my attention discusses the [Top Software Development Tre
 - **AI and Machine Learning**: AI continues to push the boundaries, making applications smarter and enhancing user experience with predictive analytics and advanced data processing.
 
 - **Internet of Things (IoT)**: IoT is not just a tech buzzword but a significant part of our connected reality, with applications transforming everyday objects into smart, interconnected devices.
+
+- **WebAssembly**: This technology is changing the game, allowing code written in various languages to be executed in web browsers, leading to performance improvements and new possibilities in web app development.
